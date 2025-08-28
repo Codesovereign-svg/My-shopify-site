@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Shopify Store</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+    .btn { background: #2ecc71; color: white; padding: 15px 20px; text-decoration: none; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Store</h1>
+  <p>Click below to shop our products</p>
+  <a class="btn" href="J&A supreme ">Visit My Shopify</a>
+</body>
+</html>
